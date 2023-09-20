@@ -21,7 +21,7 @@ What software are you building upon
 
 | Description | Completed |
 |------|------|
-| Each team will need to create an online shared working space to store project artifacts | `:white_check_mark:` |
-| Provide a README, ideally in Markdown that describes the following: team members (include full names and student numbers), project Description (what software are you building upon, other tools (e.g. Basecamp, Trello, etc) | `:white_check_mark:` |
-| Make sure that you provide access to the professor and the TAs. | `:white_check_mark:` |
+| Each team will need to create an online shared working space to store project artifacts | &check; |
+| Provide a README, ideally in Markdown that describes the following: team members (include full names and student numbers), project Description (what software are you building upon, other tools (e.g. Basecamp, Trello, etc) | x |
+| Make sure that you provide access to the professor and the TAs. | x |
 
