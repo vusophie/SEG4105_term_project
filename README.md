@@ -2,27 +2,29 @@
 
 ## Project team members
 
-| Name | Role | Focus | Responsibilities |
-|------|-----|---------|-------|
-| Test | Test | Test | Test |
-| Test | Test | Test | Test |
-| Test | Test | Test | Test |
-| Test | Test | Test | Test |
-| Test | Test | Test | Test |
+| Full Name | Student Number |
+|------|------|
+| Test | Test |
+| Test | Test |
+| Test | Test |
+| Test | Test |
+| Test | Test |
 
-## Closing Checklist
+## Project Description
+- [ ] What software are you building upon
 
-Each team will need to create an online shared working space to store project artifacts including (but not limited to): 
-- [ ] Source Code
-- [ ] Project Details
-- [ ] Team Details and Roles
-- [ ] Meeting Minutes
-- [ ] Hill Charts
-- [ ] Project Tasks
+## Other tools
+- [ ] GitHub Issues
+- [ ] 
 
-Provide a README, ideally in Markdown that describes the following:
-- [ ] Team members (include full names and student numbers)
-- [ ] Project Description (what software are you building upon
-- [ ] Other tools (e.g. Basecamp, Trello, etc)
-- [ ] Make sure that you provide access to the professor and the TAs.
+## Grading Scheme
 
+| Description | Completed |
+|------|------|
+| Each team will need to create an online shared working space to store project artifacts | [ ] |
+| Provide a README, ideally in Markdown that describes the following: 
+* Team members (include full names and student numbers)
+* Project Description (what software are you building upon
+* Other tools (e.g. Basecamp, Trello, etc)
+| [ ] |
+| Make sure that you provide access to the professor and the TAs. | [ ] |
