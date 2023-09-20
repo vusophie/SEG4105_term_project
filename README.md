@@ -1,6 +1,7 @@
 # Project Summary
 
-**Project team members:** 
+## Project team members
+
 | Name | Role | Focus | Responsibilities |
 |------|-----|---------|-------|
 | Test | Test | Test | Test |
@@ -23,6 +24,5 @@ Provide a README, ideally in Markdown that describes the following:
 - [ ] Team members (include full names and student numbers)
 - [ ] Project Description (what software are you building upon
 - [ ] Other tools (e.g. Basecamp, Trello, etc)
-
 - [ ] Make sure that you provide access to the professor and the TAs.
 
