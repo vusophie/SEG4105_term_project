@@ -5,7 +5,7 @@
 | Full Name | Student Number |
 |------|------|
 | Sophie Vu | 300113938|
-| Test | Test |
+| Ayman Fakri | 300120735 |
 | Test | Test |
 | Test | Test |
 | Test | Test |
