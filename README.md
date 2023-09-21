@@ -6,7 +6,7 @@
 |------|------|
 | Sophie Vu | 300113938|
 | Ayman Fakri | 300120735 |
-| Test | Test |
+| Christian Tchoutang | 300101550 |
 | Test | Test |
 | Test | Test |
 
