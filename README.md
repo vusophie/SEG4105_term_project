@@ -7,7 +7,7 @@
 | Sophie Vu | 300113938|
 | Ayman Fakri | 300120735 |
 | Christian Tchoutang | 300101550 |
-| Test | Test |
+| Brook Goitom | 300187740 |
 | Test | Test |
 
 ## Project Description
