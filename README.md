@@ -1,7 +1,9 @@
 # Project Summary
 
 ## Project Description
-What software are you building upon
+
+We will be developing an e-commerce website tailored for artists in Canada that offers a wide range of art supplies. We are building upon a template starter web app, developed by our existing team, which serves as the foundation for this project.
+
 
 ## Team Details and Roles
 
@@ -14,17 +16,23 @@ What software are you building upon
 | Test | Test | TBA |
 
 
-### Meeting Minutes 
+## Meeting Minutes 
+
 TBA 
 
-### Hill Charts
+## Hill Charts
+
 TBA
 
-### Project Tasks
+## Project Tasks
+
 TBA
 
 ## Other tools
--  GitHub Issues
+
+- GitHub Issues: used as a platform for tracking and managing tasks within the team.
+- Microsoft Teams: leveraged for our team meetings throughout the project cycle.
+- Google Docs: used for collaborative project documentation.
 
 
 ## Grading Scheme
