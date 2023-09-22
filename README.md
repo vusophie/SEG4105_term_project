@@ -13,7 +13,7 @@ We will be developing an e-commerce website tailored for artists in Canada that 
 | Ayman Fakri | 300120735 | TBA |
 | Christian Tchoutang | 300101550 | TBA |
 | Brook Goitom | 300187740 | TBA |
-| Test | Test | TBA |
+| Sukhraj Bhogal | 300012635 | TBA |
 
 
 ## Meeting Minutes 
