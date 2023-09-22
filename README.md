@@ -40,6 +40,6 @@ TBA
 | Description | Completed |
 |------|------|
 | Each team will need to create an online shared working space to store project artifacts | &check; |
-| Provide a README, ideally in Markdown that describes the following: team members (include full names and student numbers), project description (what software are you building upon, other tools (e.g. Basecamp, Trello, etc) | x |
-| Make sure that you provide access to the professor and the TAs. | x |
+| Provide a README, ideally in Markdown that describes the following: team members (include full names and student numbers), project description (what software are you building upon, other tools (e.g. Basecamp, Trello, etc) | &check; |
+| Make sure that you provide access to the professor and the TAs. | &check; |
 
