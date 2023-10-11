@@ -1,45 +1,26 @@
-# Project Summary
+# Deliverable 1
 
 ## Project Description
 
-We will be developing an e-commerce website tailored for artists in Canada that offers a wide range of art supplies. We are building upon a template starter web app, developed by our existing team, which serves as the foundation for this project.
+Each team member will write a pitch based Shape Up for a feature for your project. 
 
 
-## Team Details and Roles
+## Team Details
 
-| Full Name | Student Number | Role |
+| Full Name | Student Number | Pitch Solution | Link To Branch |
+|------|------|------|------|------|
+| Sophie Vu | 300113938| Admin Dashboard | [Sophie's branch](test.com) |
+| Ayman Fakri | 300120735 | TBA | [Ayman's branch](test.com) |
+| Christian Tchoutang | 300101550 | TBA | [Christian's branch](test.com) |
+| Brook Goitom | 300187740 | TBA | [Brook's branch](test.com) |
+| Sukhraj Bhogal | 300012635 | TBA | [Sukhraj's branch](test.com) |
+
+
+## Grading Scheme (For Each Pitch)
+
+| Description | Weight | Completed | 
 |------|------|------|
-| Sophie Vu | 300113938| TBA |
-| Ayman Fakri | 300120735 | TBA |
-| Christian Tchoutang | 300101550 | TBA |
-| Brook Goitom | 300187740 | TBA |
-| Sukhraj Bhogal | 300012635 | TBA |
-
-
-## Meeting Minutes 
-
-TBA 
-
-## Hill Charts
-
-TBA
-
-## Project Tasks
-
-TBA
-
-## Other tools
-
-- GitHub Issues: used as a platform for tracking and managing tasks within the team.
-- Microsoft Teams: leveraged for our team meetings throughout the project cycle.
-- Google Docs: used for collaborative project documentation.
-
-
-## Grading Scheme
-
-| Description | Completed |
-|------|------|
-| Each team will need to create an online shared working space to store project artifacts | &check; |
-| Provide a README, ideally in Markdown that describes the following: team members (include full names and student numbers), project description (what software are you building upon, other tools (e.g. Basecamp, Trello, etc) | &check; |
-| Make sure that you provide access to the professor and the TAs. | &check; |
+| Structure | 3 | &check; |
+| Content | 6 | &check; |
+| Scope | 1 | &check; |
 
