@@ -2,15 +2,11 @@
 
 ## Contact Information
 
-| Full Name | Student Number | Email |
-|------|------|------|
-| Sophie Vu | 300113938| svu043@uottawa.ca |
+| Full Name | Student Number | Email | Link to PDF of Pitch |
+|------|------|------|------|
+| Sophie Vu | 300113938| svu043@uottawa.ca | https://github.com/vusophie/SEG4105_term_project/blob/deli1_sophie_300113938_pitch/SEG4105%20-%20Deliverable%201-1.pdf |
 
-
-<object data="[http://yoursite.com/the.pdf](https://github.com/vusophie/SEG4105_term_project/blob/deli1_sophie_300113938_pitch/SEG4105%20-%20Deliverable%201-1.pdf)" type="application/pdf" width="750px" height="750px">
-    <embed src="[http://yoursite.com/the.pdf](https://github.com/vusophie/SEG4105_term_project/blob/deli1_sophie_300113938_pitch/SEG4105%20-%20Deliverable%201-1.pdf)" type="application/pdf">
-    </embed>
-</object>
+**(Note that you will have to click the More Pages button as you view the entire PDF)**
 
 
 ## Grading Scheme
