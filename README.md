@@ -2,8 +2,7 @@
 
 | Full Name | Student Number | Email | Link to PDF of Pitch |
 |------|------|------|------|
-| Christian Tchoutang | 300101550 | ctcho055@uottawa.ca | [shoppingCart Pitch]
-(https://github.com/vusophie/SEG4105_term_project/blob/del1_christianT_300101550_pitch/SEG4105%20-%20Deliverable%201.pdf) |
+| Christian Tchoutang | 300101550 | ctcho055@uottawa.ca | [shoppingCart Pitch](https://github.com/vusophie/SEG4105_term_project/blob/del1_christianT_300101550_pitch/SEG4105%20-%20Deliverable%201.pdf) |
 
 
 ## Grading Scheme
