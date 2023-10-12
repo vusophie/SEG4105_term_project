@@ -2,7 +2,7 @@
 
 | Full Name | Student Number | Email | Link to PDF of Pitch |
 |------|------|------|------|
-| Sukhraj Bhogal | 300012635 | sbhog040@uottawa.ca | [Wish List Pitch](https://github.com/vusophie/SEG4105_term_project/blob/deli1_sophie_300113938_pitch/SEG4105%20-%20Deliverable%201-1.pdf) |
+| Sukhraj Bhogal | 300012635 | sbhog040@uottawa.ca | [Wish List Pitch](https://github.com/vusophie/SEG4105_term_project/blob/deli1_sukhraj_300012635_pitch/Deliverable%201.pdf) |
 
 
 ## Grading Scheme
