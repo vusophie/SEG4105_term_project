@@ -1,8 +1,8 @@
-# Sukhraj's Pitch
+# Christian T's Pitch
 
 | Full Name | Student Number | Email | Link to PDF of Pitch |
 |------|------|------|------|
-| Sukhraj Bhogal | 300012635 | sbhog040@uottawa.ca | [Wish List Pitch](https://github.com/vusophie/SEG4105_term_project/blob/deli1_sukhraj_300012635_pitch/Deliverable%201.pdf) |
+| Christian Tchoutang | 300101550 | ctcho055@uottawa.ca | [shoppingCart Pitch](https://github.com/vusophie/SEG4105_term_project/blob/deli1_sukhraj_300012635_pitch/Deliverable%201.pdf) |
 
 
 ## Grading Scheme
