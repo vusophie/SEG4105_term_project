@@ -1,44 +1,15 @@
-# Project Summary
+# Deliverable #2
 
-## Project Description
+| Full Name | Student Number | Email | Link to PDF of Deliverable #2 |
+|------|------|------|------|
+| Sophie Vu | 300113938| svu043@uottawa.ca | [PDF](https://github.com/vusophie/SEG4105_term_project/blob/deli1_sophie_300113938_pitch/SEG4105%20-%20Deliverable%201-1.pdf) |
 
-We will be developing an e-commerce website tailored for artists in Canada that offers a wide range of art supplies. We are building upon a template starter web app, developed by our existing team, which serves as the foundation for this project.
-
-
-## Team Details and Roles
-
-| Full Name | Student Number | Role |
-|------|------|------|
-| Sophie Vu | 300113938| TBA |
-| Ayman Fakri | 300120735 | TBA |
-| Christian Tchoutang | 300101550 | TBA |
-| Sukhraj Bhogal | 300012635 | TBA |
-
-
-## Meeting Minutes 
-
-TBA 
-
-## Hill Charts
-
-TBA
-
-## Project Tasks
-
-TBA
-
-## Other tools
-
-- GitHub Issues: used as a platform for tracking and managing tasks within the team.
-- Microsoft Teams: leveraged for our team meetings throughout the project cycle.
-- Google Docs: used for collaborative project documentation.
+**(Note that you will have to click the More Pages button as you view the entire PDF)**
 
 
 ## Grading Scheme
 
-| Description | Completed |
-|------|------|
-| Each team will need to create an online shared working space to store project artifacts | &check; |
-| Provide a README, ideally in Markdown that describes the following: team members (include full names and student numbers), project description (what software are you building upon, other tools (e.g. Basecamp, Trello, etc) | &check; |
-| Make sure that you provide access to the professor and the TAs. | &check; |
-
+| Description | Weight | Completed | 
+|------|------|------|
+| Winning Pitch Updates | 4 | &check; |
+| Discussion  | 6 | &check; |
