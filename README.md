@@ -12,7 +12,6 @@ Your team now has a de-risked, well-shaped feature to implement and you are read
 | Sophie Vu | 300113938| 
 | Ayman Fakri | 300120735 |
 | Christian Tchoutang | 300101550 |
-| Brook Goitom | 300187740 | 
 | Sukhraj Bhogal | 300012635 |
 
 
