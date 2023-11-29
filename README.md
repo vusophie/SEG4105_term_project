@@ -7,13 +7,13 @@ Your team now has a de-risked, well-shaped feature to implement and you are read
 
 ## Team Details
 
-| Full Name | Student Number | Pitch Solution | Link To Branch |
-|------|------|------|------|------|
-| Sophie Vu | 300113938| Admin Dashboard |
-| Ayman Fakri | 300120735 | TBA |
-| Christian Tchoutang | 300101550 | TBA |
-| Brook Goitom | 300187740 | TBA |
-| Sukhraj Bhogal | 300012635 | TBA|
+| Full Name | Student Number | 
+|------|------|
+| Sophie Vu | 300113938| 
+| Ayman Fakri | 300120735 |
+| Christian Tchoutang | 300101550 |
+| Brook Goitom | 300187740 | 
+| Sukhraj Bhogal | 300012635 |
 
 
 ## Grading Scheme (For Each Pitch)
