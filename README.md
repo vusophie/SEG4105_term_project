@@ -1,8 +1,8 @@
-# Deliverable 1
+# Deliverable 3
 
 ## Project Description
 
-Each team member will write a pitch based Shape Up for a feature for your project. 
+Your team now has a de-risked, well-shaped feature to implement and you are ready to hand-over responsibility to the developers to track and implement.
 
 
 ## Team Details
@@ -20,7 +20,7 @@ Each team member will write a pitch based Shape Up for a feature for your projec
 
 | Description | Weight | Completed | 
 |------|------|------|
-| Structure | 3 | &check; |
-| Content | 6 | &check; |
-| Scope | 1 | &check; |
-
+| Weekly Meeting Minutes	 | 4 | &check; |
+| Scope Map (Evolution) | 2 | &check; |
+| Hill Chart (Evolution) | 2 | &check; |
+| Delivery | 2 |  &check; |
