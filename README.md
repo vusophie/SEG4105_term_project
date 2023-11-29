@@ -9,18 +9,18 @@ Your team now has a de-risked, well-shaped feature to implement and you are read
 
 | Full Name | Student Number | Pitch Solution | Link To Branch |
 |------|------|------|------|------|
-| Sophie Vu | 300113938| Admin Dashboard | [Sophie's branch](test.com) |
-| Ayman Fakri | 300120735 | TBA | [Ayman's branch](test.com) |
-| Christian Tchoutang | 300101550 | TBA | [Christian's branch](test.com) |
-| Brook Goitom | 300187740 | TBA | [Brook's branch](test.com) |
-| Sukhraj Bhogal | 300012635 | TBA | [Sukhraj's branch](test.com) |
+| Sophie Vu | 300113938| Admin Dashboard |
+| Ayman Fakri | 300120735 | TBA |
+| Christian Tchoutang | 300101550 | TBA |
+| Brook Goitom | 300187740 | TBA |
+| Sukhraj Bhogal | 300012635 | TBA|
 
 
 ## Grading Scheme (For Each Pitch)
 
 | Description | Weight | Completed | 
 |------|------|------|
-| Weekly Meeting Minutes	 | 4 | &check; |
-| Scope Map (Evolution) | 2 | &check; |
-| Hill Chart (Evolution) | 2 | &check; |
-| Delivery | 2 |  &check; |
+| Weekly Meeting Minutes	 | 4 | &uncheck; |
+| Scope Map (Evolution) | 2 | &uncheck; |
+| Hill Chart (Evolution) | 2 | &uncheck; |
+| Delivery | 2 |  &uncheck; |
