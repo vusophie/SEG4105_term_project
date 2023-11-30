@@ -19,7 +19,7 @@ Your team now has a de-risked, well-shaped feature to implement and you are read
 
 | Description | Weight | Completed | 
 |------|------|------|
-| Weekly Meeting Minutes	 | 4 | &uncheck; |
-| Scope Map (Evolution) | 2 | &uncheck; |
-| Hill Chart (Evolution) | 2 | &uncheck; |
+| Weekly Meeting Minutes	 | 4 | &check; |
+| Scope Map (Evolution) | 2 | &check; |
+| Hill Chart (Evolution) | 2 | &check; |
 | Delivery | 2 |  &uncheck; |
