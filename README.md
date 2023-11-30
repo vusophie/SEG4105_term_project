@@ -1,5 +1,7 @@
 # Deliverable 3
 
+NB: look for Deliverable3.md for solution
+
 ## Project Description
 
 Your team now has a de-risked, well-shaped feature to implement and you are ready to hand-over responsibility to the developers to track and implement.
