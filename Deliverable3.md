@@ -12,6 +12,7 @@ The cart will be accessible from all pages, and also clearly displays the curren
    - Integration with inventory management
    - Payment options enhancement
    - Scalability for increased user traffic
+     
 2. Accessibility (Detailed Scope):
    ##### Tasks:
    - Conduct accessibility audit on existing cart
@@ -19,6 +20,7 @@ The cart will be accessible from all pages, and also clearly displays the curren
    - Ensure keyboard navigation for all functionalities
    - Provide alternative text for images
    - Test with screen readers and other assistive technologies
+     
 3. Device and Browser Compatibility (Detailed Scope):
    ##### Tasks:
    - Analyze current user analytics for popular devices and browsers
@@ -26,6 +28,7 @@ The cart will be accessible from all pages, and also clearly displays the curren
    - Test on various devices and browsers
    - Address any compatibility issues
    - Optimize for mobile and tablet experiences
+     
 4. Inventory Management Integration (Detailed Scope):
    ##### Tasks:
    - Collaborate with the inventory management team
@@ -33,6 +36,7 @@ The cart will be accessible from all pages, and also clearly displays the curren
    - Implement seamless integration points
    - Test synchronization of inventory updates
    - Handle scenarios of out-of-stock items gracefully
+     
 5. Payment Options Integration (Detailed Scope):
    ##### Tasks:
    - Review existing payment options
@@ -40,6 +44,7 @@ The cart will be accessible from all pages, and also clearly displays the curren
    - Integrate a secure payment gateway
    - Test various payment scenarios
    - Ensure a smooth and secure checkout process
+     
 6. Scalability and Performance Testing (Detailed Scope):
    ##### Tasks:
    - Discuss expected user traffic and sales growth
@@ -47,6 +52,7 @@ The cart will be accessible from all pages, and also clearly displays the curren
    - Conduct performance testing
    - Optimize code and database queries for efficiency
    - Implement caching mechanisms for improved performance
+     
 
 ## Meeting minutes and Updates
 
@@ -92,7 +98,7 @@ HillChart: <br>
 ## week3: Meeting of 07, nov 
 
 **Headlines:**
-- Meeting with team
+Meeting with team
 
 **Notes:**
 - Discuss inventory management system integration
@@ -108,7 +114,7 @@ HillChart: <br>
 ## week2: Meeting of Tuesday, 31 october 
 
 **Headlines:**
-- Meeting with team
+Meeting with team
 
 **Notes:**
 - Review compatibility analysis results
@@ -121,8 +127,7 @@ HillChart: <br>
 ## week1: Meeting of Tuesday, 24 october 
 
 **Headlines:**
-
-- Meeting with team
+Meeting with team
 
 **Notes:**
 - Conduct initial accessibility research
