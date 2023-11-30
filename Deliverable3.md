@@ -1,4 +1,52 @@
-The winning pitch is the shopping cart
+#### Focus on one piece
+The winning pitch is the shopping cart feature. Much like the backbone of most successful e-commerce platforms, the shopping cart is the unsung hero that significantly influences how our users select and purchase products. it's the bridge that connects the 'browsing' to 'buying' in the most effortless way. <br>
+Our platform's existing shopping cart is not user-friendly, which hinders user experience and sales. In order to address this issue, we will design an easy-to-use cart for adding, viewing, and updating items. <br> 
+The cart will be accessible from all pages, and also clearly displays the current total price. <br> <br>
+#### Scope Map:
+1. Shopping Cart Redesign (High-Level Scope):
+   ##### Features:
+   - Add items to the cart
+   - View and update items in the cart
+   - Accessibility improvements
+   - Device and browser compatibility
+   - Integration with inventory management
+   - Payment options enhancement
+   - Scalability for increased user traffic
+2. Accessibility (Detailed Scope):
+   ##### Tasks:
+   - Conduct accessibility audit on existing cart
+   - Identify and implement WCAG standards
+   - Ensure keyboard navigation for all functionalities
+   - Provide alternative text for images
+   - Test with screen readers and other assistive technologies
+3. Device and Browser Compatibility (Detailed Scope):
+   ##### Tasks:
+   - Analyze current user analytics for popular devices and browsers
+   - Implement responsive design principles
+   - Test on various devices and browsers
+   - Address any compatibility issues
+   - Optimize for mobile and tablet experiences
+4. Inventory Management Integration (Detailed Scope):
+   ##### Tasks:
+   - Collaborate with the inventory management team
+   - Define APIs for real-time inventory updates
+   - Implement seamless integration points
+   - Test synchronization of inventory updates
+   - Handle scenarios of out-of-stock items gracefully
+5. Payment Options Integration (Detailed Scope):
+   ##### Tasks:
+   - Review existing payment options
+   - Explore additional payment methods
+   - Integrate a secure payment gateway
+   - Test various payment scenarios
+   - Ensure a smooth and secure checkout process
+6. Scalability and Performance Testing (Detailed Scope):
+   ##### Tasks:
+   - Discuss expected user traffic and sales growth
+   - Define strategies for scalability
+   - Conduct performance testing
+   - Optimize code and database queries for efficiency
+   - Implement caching mechanisms for improved performance
 
 ## Meeting minutes and Updates
 
@@ -8,12 +56,12 @@ The winning pitch is the shopping cart
 Meeting with team
 
 **Notes:**
-- We wrapped up the authentication of most of the frontend
-- We are currently working on the Rating pages
-- We know how to deployed the backend 
+- Demonstrate the fully implemented shopping cart
+- Conduct user acceptance testing
+- Address final feedback and prepare for rollout
 
-**Action items:**
-- Continue integration of backend with frontend
+HillChart: <br> 
+![My Image](endChart.png) 
 
 ## week5: Meeting of Tue, 21 Nov 
 
@@ -21,14 +69,12 @@ Meeting with team
 Meeting with team
 
 **Notes:**
-- We wrapped up the rating process use case
-- We are currently working on the Rating pages
-- There is a mismatch with the mock frontend db and backend. We harmonized them together
+- Discuss expected user traffic and sales growth
+- Implement strategies for scalability
+- Conduct performance testing and optimizations
 
-**Action items:**
-- Start connecting frontend with backend asap. Will need one frontend dev and backend dev to sync
-- Authentification of endpoints
-
+HillChart: <br> 
+![My Image](furtherChart.png) 
 
 ## week4: Meeting of Tue, 14 Nov 
 
@@ -36,50 +82,38 @@ Meeting with team
 Meeting with team
 
 **Notes:**
+- Review current payment options
+- Explore additional payment methods
+- Integrate a secure payment gateway
+  
+HillChart: <br> 
+![My Image](progressChart.png)
 
-Audry - worked on lambda function et doit avancer dans les api calls pour addListing avec Géraud
-Yvan - working on authentication of endpoints and requested help to move forward
-Christian - a travaillé sur un document expliquant le rating process. 
-Soma - developed users profile pages
-  
-**Action items:**
-- Écrire un cas d’utilisation pour faciliter le développement du rating process
-- Develop manage listing page
-- Help Yvan with auth
-- Give miliestones updates in chat more frequently
-  
 ## week3: Meeting of 07, nov 
 
 **Headlines:**
+- Meeting with team
 
 **Notes:**
-
-- Mohamed has made some progress in regards to user rating view pages, despite some bugs encountered. He is confident this will be fixed before our tentative meeting with the landlord on Saturday, Nov 4, 2023. 
-- Audry has been working on finishing the lambda functions (cloud services) to assign users to groups when they sign up, faced some challenges but is close to finishing up this task by this Friday
-- Geraud and Christian have been finishing up a few test cases that were left for the API.
-- Yvan has been reading the documentation on Spring Boot Security, and best practices for authentication with aws cognito server side.
-  
-**Action items:**
-- Mohamed to isolate routes/paths and components for each type of user to facilitate the authorization flow when a user logs in on the client side.
-- Audry to work with Geraud on the API calls ticket.
-- Yvan to implement a mechanism for verifying the jwt received from the client, against the cognito user pool for authentication and authentication purposes.
-- Christian to work on implementing the manage listing page.
+- Discuss inventory management system integration
+- Collaborate with the inventory management team
+- Define requirements for seamless synchronization
 
 - **Minute meetings:**
 - 56 mn 50s
 
+HillChart: <br> 
+![My Image](initialChart.png) 
+
 ## week2: Meeting of Tuesday, 31 october 
 
 **Headlines:**
-
 - Meeting with team
 
 **Notes:**
-- Resoudre bogues trouver sur le backend
-- Integrer Amazon cognito sur le backend
-- Continuer sur le QA du backend
-- Finaliser les pages du frontend
-- Ajouter documentation script
+- Review compatibility analysis results
+- Identify target devices and browsers
+- Assign tasks for responsive design implementation
 
 **Minute meetings:**
 - 36 mn 50s
@@ -91,11 +125,9 @@ Soma - developed users profile pages
 - Meeting with team
 
 **Notes:**
-- Resoudre bogues trouver sur le backend
-- Integrer Amazon cognito sur le backend
-- Continuer sur le QA du backend
-- Finaliser les pages du frontend
-- Ajouter documentation script
+- Conduct initial accessibility research
+- Assign team members for accessibility audit
+- Set goals for accessibility compliance
 
 **Minute meetings:**
 - 36 mn 50s
