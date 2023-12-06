@@ -9,15 +9,15 @@
 | Christian Tchoutang | 300101550 | Developer |
 | Sukhraj Bhogal | 300012635 | QA Tester |
 
-[Link to our Deliverable 3 documentation.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/SEG4105%20-%20Deliverable%20%233.pdf) 
+* [Link to our Deliverable 3 documentation.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/SEG4105%20-%20Deliverable%20%233.pdf) 
 
-[Link to our project's Basecamp.](https://3.basecamp.com/5683730/buckets/34874669/todosets/6682283312)
+* [Link to our project's Basecamp.](https://3.basecamp.com/5683730/buckets/34874669/todosets/6682283312)
 
-[Link to our Meeting Notes for our Initial Exploration Meeting.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/SEG4105%20-%20Initial%20Exploration%20Meeting.pdf)
+* [Link to our Meeting Notes for our Initial Exploration Meeting.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/SEG4105%20-%20Initial%20Exploration%20Meeting.pdf)
 
-[Link to our UX Case Study.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/UX%20Case%20Study%20Painter%E2%80%99s%20Paradise%20Student%20Discount%20Integration.pdf)
+* [Link to our UX Case Study.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/UX%20Case%20Study%20Painter%E2%80%99s%20Paradise%20Student%20Discount%20Integration.pdf)
 
-[Link to our wireframes,](https://github.com/vusophie/SEG4105_term_project/blob/deli3/wirefames.fig) Please note that you will need to install Figma and download this file to view our wireframes.
+* [Link to our Figma wireframes.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/wirefames.fig)
 
 ## Grading Scheme
 
