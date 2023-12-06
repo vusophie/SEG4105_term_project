@@ -19,6 +19,8 @@
 
 * [Link to our Figma wireframes.](https://github.com/vusophie/SEG4105_term_project/blob/deli3/wirefames.fig)
 
+* [Link to our develop branch.](https://github.com/vusophie/SEG4105_term_project/tree/deli3-develop)
+
 ## Grading Scheme
 
 | Deliverable | Is Done |
